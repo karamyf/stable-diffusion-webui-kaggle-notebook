@@ -7,7 +7,7 @@ This tutorial demonstrates how to use Stable Diffusion on Kaggle, including its 
 - Ngrok account for hosting the Stable Diffusion web app
 
 ## Overview
-Stable Diffusion is an alternative to Google Colab for running powerful image editing algorithms. Google has recently blocked the usage of Stable Diffusion with free Colab accounts, making Kaggle a viable alternative.
+Kaggle is a free alternative to Google Colab for running Stable Diffusion. Google has recently blocked the usage of Stable Diffusion with free Colab accounts, making Kaggle a viable alternative.
 
 ## Steps to Use Stable Diffusion on Kaggle
 1. **Obtain Ngrok Token**
