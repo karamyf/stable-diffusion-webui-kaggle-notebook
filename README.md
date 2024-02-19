@@ -21,7 +21,7 @@ Stable Diffusion is an alternative to Google Colab for running powerful image ed
    - The notebook will install dependencies, download models, upscalers, embeddings, and extensions needed for Stable Diffusion.
 
 4. **Access Stable Diffusion**
-   - After running the notebook, Stable Diffusion will be accessible through a local URL.
+   - After running the notebook, Stable Diffusion will be accessible through a local [URL](#).
    - Click on the Ngrok App URL to open Stable Diffusion in your web browser.
 
 5. **Customize UI (Optional)**
